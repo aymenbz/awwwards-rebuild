@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/awwwards-rebuild/static/css/main.24c8603b.chunk.css",
+    "main.js": "/awwwards-rebuild/static/js/main.bcb393fe.chunk.js",
+    "main.js.map": "/awwwards-rebuild/static/js/main.bcb393fe.chunk.js.map",
+    "runtime-main.js": "/awwwards-rebuild/static/js/runtime-main.7db2d8a1.js",
+    "runtime-main.js.map": "/awwwards-rebuild/static/js/runtime-main.7db2d8a1.js.map",
+    "static/js/2.d2fae29e.chunk.js": "/awwwards-rebuild/static/js/2.d2fae29e.chunk.js",
+    "static/js/2.d2fae29e.chunk.js.map": "/awwwards-rebuild/static/js/2.d2fae29e.chunk.js.map",
+    "index.html": "/awwwards-rebuild/index.html",
+    "precache-manifest.007b864f1da449a93b0d3edd823f6cff.js": "/awwwards-rebuild/precache-manifest.007b864f1da449a93b0d3edd823f6cff.js",
+    "service-worker.js": "/awwwards-rebuild/service-worker.js",
+    "static/css/main.24c8603b.chunk.css.map": "/awwwards-rebuild/static/css/main.24c8603b.chunk.css.map",
+    "static/js/2.d2fae29e.chunk.js.LICENSE.txt": "/awwwards-rebuild/static/js/2.d2fae29e.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "/awwwards-rebuild/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "/awwwards-rebuild/static/media/arrow-right.dc372a07.svg",
+    "static/media/curology-min.png": "/awwwards-rebuild/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/awwwards-rebuild/static/media/lumin-min.379bad94.png",
+    "static/media/up-arrow-circle.24e8d8f2.svg": "/awwwards-rebuild/static/media/up-arrow-circle.24e8d8f2.svg",
+    "static/media/yourspace-min.png": "/awwwards-rebuild/static/media/yourspace-min.5f9e3077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7db2d8a1.js",
+    "static/js/2.d2fae29e.chunk.js",
+    "static/css/main.24c8603b.chunk.css",
+    "static/js/main.bcb393fe.chunk.js"
+  ]
+}
