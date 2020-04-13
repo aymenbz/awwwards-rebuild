@@ -34,12 +34,13 @@ function debounce(fn, ms) {
 }
 
 function App() {
-  gsap.to("body", 0, { css: { visibility: "visible" } });
   const [dimensions, setDimensions] = useState({
     height: window.innerHeight,
     width: window.innerWidth,
   });
   useEffect(() => {
+    gsap.to("body", 0, { css: { visibility: "visible" } });
+
     let vh = dimensions.height * 0.01;
     document.documentElement.style.setProperty("--vh", `${vh}px`);
 
